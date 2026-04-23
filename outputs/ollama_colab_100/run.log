@@ -1,0 +1,528 @@
+========================================================================
+[bold]Run start[/bold] resume=False
+[bold]Dataset[/bold] data/hotpot_100.json
+[bold]Total examples[/bold] 100
+[bold]Start split[/bold] difficulty=easy size=30
+[cyan]RUN[/cyan] agent=react difficulty=easy case=1/30 qid=5a71458e5542994082a3e738
+[green]DONE[/green] agent=react difficulty=easy qid=5a71458e5542994082a3e738 correct=True attempts=1 tokens=2073 latency_ms=8079
+[cyan]RUN[/cyan] agent=react difficulty=easy case=2/30 qid=5a73332b5542992359bc3287
+[green]DONE[/green] agent=react difficulty=easy qid=5a73332b5542992359bc3287 correct=True attempts=1 tokens=2305 latency_ms=5368
+[cyan]RUN[/cyan] agent=react difficulty=easy case=3/30 qid=5a74248855429929fddd83e5
+[green]DONE[/green] agent=react difficulty=easy qid=5a74248855429929fddd83e5 correct=False attempts=1 tokens=2092 latency_ms=4907
+[cyan]RUN[/cyan] agent=react difficulty=easy case=4/30 qid=5a76a401554299373536012b
+[green]DONE[/green] agent=react difficulty=easy qid=5a76a401554299373536012b correct=True attempts=1 tokens=1957 latency_ms=4177
+[cyan]RUN[/cyan] agent=react difficulty=easy case=5/30 qid=5a7a0d455542990783324e13
+[green]DONE[/green] agent=react difficulty=easy qid=5a7a0d455542990783324e13 correct=False attempts=1 tokens=1561 latency_ms=4060
+[cyan]RUN[/cyan] agent=react difficulty=easy case=6/30 qid=5a7ca54c55429935c91b527f
+[green]DONE[/green] agent=react difficulty=easy qid=5a7ca54c55429935c91b527f correct=False attempts=1 tokens=1952 latency_ms=4637
+[cyan]RUN[/cyan] agent=react difficulty=easy case=7/30 qid=5a83168855429966c78a6b2e
+[green]DONE[/green] agent=react difficulty=easy qid=5a83168855429966c78a6b2e correct=True attempts=1 tokens=1644 latency_ms=4024
+[cyan]RUN[/cyan] agent=react difficulty=easy case=8/30 qid=5a832c3455429954d2e2ec41
+[green]DONE[/green] agent=react difficulty=easy qid=5a832c3455429954d2e2ec41 correct=True attempts=1 tokens=2042 latency_ms=4079
+[cyan]RUN[/cyan] agent=react difficulty=easy case=9/30 qid=5a8a2ebc5542996c9b8d5e33
+[green]DONE[/green] agent=react difficulty=easy qid=5a8a2ebc5542996c9b8d5e33 correct=True attempts=1 tokens=1863 latency_ms=4699
+[cyan]RUN[/cyan] agent=react difficulty=easy case=10/30 qid=5a8ae49155429951533613a3
+[green]DONE[/green] agent=react difficulty=easy qid=5a8ae49155429951533613a3 correct=True attempts=1 tokens=2248 latency_ms=4835
+[cyan]RUN[/cyan] agent=react difficulty=easy case=11/30 qid=5a8b63755542997f31a41cfe
+[green]DONE[/green] agent=react difficulty=easy qid=5a8b63755542997f31a41cfe correct=True attempts=1 tokens=2509 latency_ms=4581
+[cyan]RUN[/cyan] agent=react difficulty=easy case=12/30 qid=5a90c2b35542995651fb51df
+[green]DONE[/green] agent=react difficulty=easy qid=5a90c2b35542995651fb51df correct=True attempts=1 tokens=1538 latency_ms=3862
+[cyan]RUN[/cyan] agent=react difficulty=easy case=13/30 qid=5ab30bbb55429976abd1bc39
+[green]DONE[/green] agent=react difficulty=easy qid=5ab30bbb55429976abd1bc39 correct=True attempts=1 tokens=1923 latency_ms=4372
+[cyan]RUN[/cyan] agent=react difficulty=easy case=14/30 qid=5ab698885542995eadef002a
+[green]DONE[/green] agent=react difficulty=easy qid=5ab698885542995eadef002a correct=True attempts=1 tokens=1871 latency_ms=4380
+[cyan]RUN[/cyan] agent=react difficulty=easy case=15/30 qid=5ab70446554299110f219a94
+[green]DONE[/green] agent=react difficulty=easy qid=5ab70446554299110f219a94 correct=True attempts=1 tokens=2407 latency_ms=5346
+[cyan]RUN[/cyan] agent=react difficulty=easy case=16/30 qid=5ab9121555429919ba4e238a
+[green]DONE[/green] agent=react difficulty=easy qid=5ab9121555429919ba4e238a correct=False attempts=1 tokens=2278 latency_ms=5968
+[cyan]RUN[/cyan] agent=react difficulty=easy case=17/30 qid=5ab9672655429970cfb8eabd
+[green]DONE[/green] agent=react difficulty=easy qid=5ab9672655429970cfb8eabd correct=True attempts=1 tokens=1838 latency_ms=4510
+[cyan]RUN[/cyan] agent=react difficulty=easy case=18/30 qid=5ab99943554299131ca42391
+[green]DONE[/green] agent=react difficulty=easy qid=5ab99943554299131ca42391 correct=True attempts=1 tokens=2359 latency_ms=5304
+[cyan]RUN[/cyan] agent=react difficulty=easy case=19/30 qid=5abd04f15542996e802b467e
+[green]DONE[/green] agent=react difficulty=easy qid=5abd04f15542996e802b467e correct=True attempts=1 tokens=1593 latency_ms=4260
+[cyan]RUN[/cyan] agent=react difficulty=easy case=20/30 qid=5abe3f9455429976d4830aaa
+[green]DONE[/green] agent=react difficulty=easy qid=5abe3f9455429976d4830aaa correct=True attempts=1 tokens=2069 latency_ms=4510
+[cyan]RUN[/cyan] agent=react difficulty=easy case=21/30 qid=5ac068d25542996f0d89cba2
+[green]DONE[/green] agent=react difficulty=easy qid=5ac068d25542996f0d89cba2 correct=True attempts=1 tokens=1624 latency_ms=4102
+[cyan]RUN[/cyan] agent=react difficulty=easy case=22/30 qid=5ac15df95542994d76dccded
+========================================================================
+[bold]Run start[/bold] resume=True
+[bold]Dataset[/bold] data/hotpot_100.json
+[bold]Total examples[/bold] 100
+[bold]Start split[/bold] difficulty=easy size=30
+[cyan]RUN[/cyan] agent=react difficulty=easy case=1/30 qid=5a71458e5542994082a3e738
+[green]DONE[/green] agent=react difficulty=easy qid=5a71458e5542994082a3e738 correct=True attempts=1 tokens=2073 latency_ms=103869
+[cyan]RUN[/cyan] agent=react difficulty=easy case=2/30 qid=5a73332b5542992359bc3287
+[green]DONE[/green] agent=react difficulty=easy qid=5a73332b5542992359bc3287 correct=True attempts=1 tokens=2305 latency_ms=4775
+[cyan]RUN[/cyan] agent=react difficulty=easy case=3/30 qid=5a74248855429929fddd83e5
+[green]DONE[/green] agent=react difficulty=easy qid=5a74248855429929fddd83e5 correct=False attempts=1 tokens=2092 latency_ms=4212
+[cyan]RUN[/cyan] agent=react difficulty=easy case=4/30 qid=5a76a401554299373536012b
+[green]DONE[/green] agent=react difficulty=easy qid=5a76a401554299373536012b correct=True attempts=1 tokens=1957 latency_ms=4598
+[cyan]RUN[/cyan] agent=react difficulty=easy case=5/30 qid=5a7a0d455542990783324e13
+[green]DONE[/green] agent=react difficulty=easy qid=5a7a0d455542990783324e13 correct=False attempts=1 tokens=1561 latency_ms=3528
+[cyan]RUN[/cyan] agent=react difficulty=easy case=6/30 qid=5a7ca54c55429935c91b527f
+[green]DONE[/green] agent=react difficulty=easy qid=5a7ca54c55429935c91b527f correct=False attempts=1 tokens=1952 latency_ms=3929
+[cyan]RUN[/cyan] agent=react difficulty=easy case=7/30 qid=5a83168855429966c78a6b2e
+[green]DONE[/green] agent=react difficulty=easy qid=5a83168855429966c78a6b2e correct=True attempts=1 tokens=1644 latency_ms=3046
+[cyan]RUN[/cyan] agent=react difficulty=easy case=8/30 qid=5a832c3455429954d2e2ec41
+[green]DONE[/green] agent=react difficulty=easy qid=5a832c3455429954d2e2ec41 correct=True attempts=1 tokens=2042 latency_ms=3717
+[cyan]RUN[/cyan] agent=react difficulty=easy case=9/30 qid=5a8a2ebc5542996c9b8d5e33
+[green]DONE[/green] agent=react difficulty=easy qid=5a8a2ebc5542996c9b8d5e33 correct=True attempts=1 tokens=1863 latency_ms=3904
+[cyan]RUN[/cyan] agent=react difficulty=easy case=10/30 qid=5a8ae49155429951533613a3
+[green]DONE[/green] agent=react difficulty=easy qid=5a8ae49155429951533613a3 correct=True attempts=1 tokens=2248 latency_ms=3676
+[cyan]RUN[/cyan] agent=react difficulty=easy case=11/30 qid=5a8b63755542997f31a41cfe
+[green]DONE[/green] agent=react difficulty=easy qid=5a8b63755542997f31a41cfe correct=True attempts=1 tokens=2509 latency_ms=4008
+[cyan]RUN[/cyan] agent=react difficulty=easy case=12/30 qid=5a90c2b35542995651fb51df
+[green]DONE[/green] agent=react difficulty=easy qid=5a90c2b35542995651fb51df correct=True attempts=1 tokens=1538 latency_ms=3240
+[cyan]RUN[/cyan] agent=react difficulty=easy case=13/30 qid=5ab30bbb55429976abd1bc39
+[green]DONE[/green] agent=react difficulty=easy qid=5ab30bbb55429976abd1bc39 correct=True attempts=1 tokens=1923 latency_ms=3373
+[cyan]RUN[/cyan] agent=react difficulty=easy case=14/30 qid=5ab698885542995eadef002a
+[green]DONE[/green] agent=react difficulty=easy qid=5ab698885542995eadef002a correct=True attempts=1 tokens=1871 latency_ms=3476
+[cyan]RUN[/cyan] agent=react difficulty=easy case=15/30 qid=5ab70446554299110f219a94
+[green]DONE[/green] agent=react difficulty=easy qid=5ab70446554299110f219a94 correct=True attempts=1 tokens=2407 latency_ms=20117
+[cyan]RUN[/cyan] agent=react difficulty=easy case=16/30 qid=5ab9121555429919ba4e238a
+[green]DONE[/green] agent=react difficulty=easy qid=5ab9121555429919ba4e238a correct=False attempts=1 tokens=2278 latency_ms=4516
+[cyan]RUN[/cyan] agent=react difficulty=easy case=17/30 qid=5ab9672655429970cfb8eabd
+[green]DONE[/green] agent=react difficulty=easy qid=5ab9672655429970cfb8eabd correct=True attempts=1 tokens=1838 latency_ms=3516
+[cyan]RUN[/cyan] agent=react difficulty=easy case=18/30 qid=5ab99943554299131ca42391
+[green]DONE[/green] agent=react difficulty=easy qid=5ab99943554299131ca42391 correct=True attempts=1 tokens=2359 latency_ms=4458
+[cyan]RUN[/cyan] agent=react difficulty=easy case=19/30 qid=5abd04f15542996e802b467e
+[green]DONE[/green] agent=react difficulty=easy qid=5abd04f15542996e802b467e correct=True attempts=1 tokens=1593 latency_ms=3224
+[cyan]RUN[/cyan] agent=react difficulty=easy case=20/30 qid=5abe3f9455429976d4830aaa
+[green]DONE[/green] agent=react difficulty=easy qid=5abe3f9455429976d4830aaa correct=True attempts=1 tokens=2069 latency_ms=3607
+[cyan]RUN[/cyan] agent=react difficulty=easy case=21/30 qid=5ac068d25542996f0d89cba2
+[green]DONE[/green] agent=react difficulty=easy qid=5ac068d25542996f0d89cba2 correct=True attempts=1 tokens=1624 latency_ms=3169
+[cyan]RUN[/cyan] agent=react difficulty=easy case=22/30 qid=5ac15df95542994d76dccded
+[green]DONE[/green] agent=react difficulty=easy qid=5ac15df95542994d76dccded correct=True attempts=1 tokens=2280 latency_ms=5871
+[cyan]RUN[/cyan] agent=react difficulty=easy case=23/30 qid=5ac2a5d455429921a00ab01b
+[green]DONE[/green] agent=react difficulty=easy qid=5ac2a5d455429921a00ab01b correct=False attempts=1 tokens=2368 latency_ms=7896
+[cyan]RUN[/cyan] agent=react difficulty=easy case=24/30 qid=5ac52b495542994611c8b3de
+[green]DONE[/green] agent=react difficulty=easy qid=5ac52b495542994611c8b3de correct=True attempts=1 tokens=1984 latency_ms=4685
+[cyan]RUN[/cyan] agent=react difficulty=easy case=25/30 qid=5add28c85542992ae4cec4be
+[green]DONE[/green] agent=react difficulty=easy qid=5add28c85542992ae4cec4be correct=True attempts=1 tokens=1591 latency_ms=3310
+[cyan]RUN[/cyan] agent=react difficulty=easy case=26/30 qid=5ade025e5542997dc790711e
+[green]DONE[/green] agent=react difficulty=easy qid=5ade025e5542997dc790711e correct=True attempts=1 tokens=2190 latency_ms=3857
+[cyan]RUN[/cyan] agent=react difficulty=easy case=27/30 qid=5adf732a5542993a75d264e9
+[green]DONE[/green] agent=react difficulty=easy qid=5adf732a5542993a75d264e9 correct=False attempts=1 tokens=1629 latency_ms=6431
+[cyan]RUN[/cyan] agent=react difficulty=easy case=28/30 qid=5ae500fd55429908b63264d8
+[green]DONE[/green] agent=react difficulty=easy qid=5ae500fd55429908b63264d8 correct=True attempts=1 tokens=1719 latency_ms=3253
+[cyan]RUN[/cyan] agent=react difficulty=easy case=29/30 qid=5ae5b3df5542992663a4f20b
+[green]DONE[/green] agent=react difficulty=easy qid=5ae5b3df5542992663a4f20b correct=True attempts=1 tokens=1444 latency_ms=3151
+[cyan]RUN[/cyan] agent=react difficulty=easy case=30/30 qid=5ae6038155429929b0807a55
+[green]DONE[/green] agent=react difficulty=easy qid=5ae6038155429929b0807a55 correct=True attempts=1 tokens=1806 latency_ms=4248
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=1/30 qid=5a71458e5542994082a3e738
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a71458e5542994082a3e738 correct=True attempts=1 tokens=2074 latency_ms=3699
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=2/30 qid=5a73332b5542992359bc3287
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a73332b5542992359bc3287 correct=True attempts=1 tokens=2249 latency_ms=3867
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=3/30 qid=5a74248855429929fddd83e5
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a74248855429929fddd83e5 correct=False attempts=3 tokens=6929 latency_ms=17617
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=4/30 qid=5a76a401554299373536012b
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a76a401554299373536012b correct=True attempts=1 tokens=1958 latency_ms=3667
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=5/30 qid=5a7a0d455542990783324e13
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a7a0d455542990783324e13 correct=True attempts=2 tokens=3479 latency_ms=9992
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=6/30 qid=5a7ca54c55429935c91b527f
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a7ca54c55429935c91b527f correct=False attempts=3 tokens=6563 latency_ms=18339
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=7/30 qid=5a83168855429966c78a6b2e
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a83168855429966c78a6b2e correct=True attempts=1 tokens=1645 latency_ms=3309
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=8/30 qid=5a832c3455429954d2e2ec41
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a832c3455429954d2e2ec41 correct=True attempts=1 tokens=2043 latency_ms=3760
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=9/30 qid=5a8a2ebc5542996c9b8d5e33
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a8a2ebc5542996c9b8d5e33 correct=True attempts=1 tokens=1864 latency_ms=4394
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=10/30 qid=5a8ae49155429951533613a3
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a8ae49155429951533613a3 correct=True attempts=1 tokens=2249 latency_ms=3880
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=11/30 qid=5a8b63755542997f31a41cfe
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a8b63755542997f31a41cfe correct=True attempts=1 tokens=2510 latency_ms=4063
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=12/30 qid=5a90c2b35542995651fb51df
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5a90c2b35542995651fb51df correct=True attempts=1 tokens=1539 latency_ms=3535
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=13/30 qid=5ab30bbb55429976abd1bc39
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab30bbb55429976abd1bc39 correct=True attempts=1 tokens=1924 latency_ms=3543
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=14/30 qid=5ab698885542995eadef002a
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab698885542995eadef002a correct=True attempts=1 tokens=1872 latency_ms=3664
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=15/30 qid=5ab70446554299110f219a94
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab70446554299110f219a94 correct=True attempts=1 tokens=2408 latency_ms=4226
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=16/30 qid=5ab9121555429919ba4e238a
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab9121555429919ba4e238a correct=False attempts=3 tokens=7616 latency_ms=20266
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=17/30 qid=5ab9672655429970cfb8eabd
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab9672655429970cfb8eabd correct=True attempts=1 tokens=1839 latency_ms=3607
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=18/30 qid=5ab99943554299131ca42391
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ab99943554299131ca42391 correct=True attempts=1 tokens=2360 latency_ms=4394
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=19/30 qid=5abd04f15542996e802b467e
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5abd04f15542996e802b467e correct=True attempts=1 tokens=1594 latency_ms=3271
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=20/30 qid=5abe3f9455429976d4830aaa
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5abe3f9455429976d4830aaa correct=True attempts=1 tokens=2070 latency_ms=3609
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=21/30 qid=5ac068d25542996f0d89cba2
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ac068d25542996f0d89cba2 correct=True attempts=1 tokens=1625 latency_ms=3126
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=22/30 qid=5ac15df95542994d76dccded
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ac15df95542994d76dccded correct=True attempts=1 tokens=2281 latency_ms=5790
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=23/30 qid=5ac2a5d455429921a00ab01b
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ac2a5d455429921a00ab01b correct=True attempts=3 tokens=7554 latency_ms=23090
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=24/30 qid=5ac52b495542994611c8b3de
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ac52b495542994611c8b3de correct=True attempts=1 tokens=1985 latency_ms=4502
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=25/30 qid=5add28c85542992ae4cec4be
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5add28c85542992ae4cec4be correct=True attempts=1 tokens=1592 latency_ms=3231
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=26/30 qid=5ade025e5542997dc790711e
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ade025e5542997dc790711e correct=True attempts=1 tokens=2191 latency_ms=3818
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=27/30 qid=5adf732a5542993a75d264e9
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5adf732a5542993a75d264e9 correct=False attempts=3 tokens=5466 latency_ms=23016
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=28/30 qid=5ae500fd55429908b63264d8
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ae500fd55429908b63264d8 correct=True attempts=1 tokens=1720 latency_ms=3265
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=29/30 qid=5ae5b3df5542992663a4f20b
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ae5b3df5542992663a4f20b correct=True attempts=1 tokens=1445 latency_ms=3491
+[cyan]RUN[/cyan] agent=reflexion difficulty=easy case=30/30 qid=5ae6038155429929b0807a55
+[green]DONE[/green] agent=reflexion difficulty=easy qid=5ae6038155429929b0807a55 correct=True attempts=1 tokens=1807 latency_ms=4042
+[green]Saved[/green] outputs/ollama_colab_100/easy/report.json
+[green]Saved[/green] outputs/ollama_colab_100/easy/report.md
+{
+  "react": {
+    "count": 30,
+    "em": 0.8,
+    "avg_attempts": 1,
+    "avg_token_estimate": 1958.57,
+    "avg_latency_ms": 7955.33
+  },
+  "reflexion": {
+    "count": 30,
+    "em": 0.8667,
+    "avg_attempts": 1.3667,
+    "avg_token_estimate": 2815.03,
+    "avg_latency_ms": 6802.43
+  },
+  "delta_reflexion_minus_react": {
+    "em_abs": 0.0667,
+    "attempts_abs": 0.3667,
+    "tokens_abs": 856.46,
+    "latency_abs": -1152.9
+  }
+}
+[bold]Start split[/bold] difficulty=medium size=40
+[cyan]RUN[/cyan] agent=react difficulty=medium case=1/40 qid=5a7272eb5542997f827839d7
+[green]DONE[/green] agent=react difficulty=medium qid=5a7272eb5542997f827839d7 correct=False attempts=1 tokens=2212 latency_ms=4213
+[cyan]RUN[/cyan] agent=react difficulty=medium case=2/40 qid=5a72b1c25542992359bc3172
+[green]DONE[/green] agent=react difficulty=medium qid=5a72b1c25542992359bc3172 correct=True attempts=1 tokens=2764 latency_ms=4513
+[cyan]RUN[/cyan] agent=react difficulty=medium case=3/40 qid=5a74bdbf5542996c70cfadc7
+[green]DONE[/green] agent=react difficulty=medium qid=5a74bdbf5542996c70cfadc7 correct=True attempts=1 tokens=1698 latency_ms=3284
+[cyan]RUN[/cyan] agent=react difficulty=medium case=4/40 qid=5a74f2ff5542993748c89748
+[green]DONE[/green] agent=react difficulty=medium qid=5a74f2ff5542993748c89748 correct=True attempts=1 tokens=1958 latency_ms=3608
+[cyan]RUN[/cyan] agent=react difficulty=medium case=5/40 qid=5a760a5f554299109176e629
+[green]DONE[/green] agent=react difficulty=medium qid=5a760a5f554299109176e629 correct=True attempts=1 tokens=2205 latency_ms=3804
+[cyan]RUN[/cyan] agent=react difficulty=medium case=6/40 qid=5a7722d655429966f1a36c99
+[green]DONE[/green] agent=react difficulty=medium qid=5a7722d655429966f1a36c99 correct=False attempts=1 tokens=2045 latency_ms=4759
+[cyan]RUN[/cyan] agent=react difficulty=medium case=7/40 qid=5a7a06935542990198eaf050
+[green]DONE[/green] agent=react difficulty=medium qid=5a7a06935542990198eaf050 correct=True attempts=1 tokens=1725 latency_ms=3311
+[cyan]RUN[/cyan] agent=react difficulty=medium case=8/40 qid=5a7d0db955429909bec76924
+[green]DONE[/green] agent=react difficulty=medium qid=5a7d0db955429909bec76924 correct=True attempts=1 tokens=2147 latency_ms=3730
+[cyan]RUN[/cyan] agent=react difficulty=medium case=9/40 qid=5a7d90195542991319bc93cf
+[green]DONE[/green] agent=react difficulty=medium qid=5a7d90195542991319bc93cf correct=True attempts=1 tokens=1352 latency_ms=3097
+[cyan]RUN[/cyan] agent=react difficulty=medium case=10/40 qid=5a7e36045542991319bc9440
+[green]DONE[/green] agent=react difficulty=medium qid=5a7e36045542991319bc9440 correct=False attempts=1 tokens=2753 latency_ms=7201
+[cyan]RUN[/cyan] agent=react difficulty=medium case=11/40 qid=5a8195f35542995ce29dcc0c
+[green]DONE[/green] agent=react difficulty=medium qid=5a8195f35542995ce29dcc0c correct=True attempts=1 tokens=2169 latency_ms=4968
+[cyan]RUN[/cyan] agent=react difficulty=medium case=12/40 qid=5a81ff1d554299676cceb1c3
+[green]DONE[/green] agent=react difficulty=medium qid=5a81ff1d554299676cceb1c3 correct=True attempts=1 tokens=1981 latency_ms=3731
+[cyan]RUN[/cyan] agent=react difficulty=medium case=13/40 qid=5a82171f5542990a1d231f4a
+[green]DONE[/green] agent=react difficulty=medium qid=5a82171f5542990a1d231f4a correct=True attempts=1 tokens=1322 latency_ms=14623
+[cyan]RUN[/cyan] agent=react difficulty=medium case=14/40 qid=5a84dd955542997b5ce3ff79
+[green]DONE[/green] agent=react difficulty=medium qid=5a84dd955542997b5ce3ff79 correct=False attempts=1 tokens=1755 latency_ms=3585
+[cyan]RUN[/cyan] agent=react difficulty=medium case=15/40 qid=5a8514545542992a431d1ad2
+[green]DONE[/green] agent=react difficulty=medium qid=5a8514545542992a431d1ad2 correct=False attempts=1 tokens=1652 latency_ms=4082
+[cyan]RUN[/cyan] agent=react difficulty=medium case=16/40 qid=5a879ab05542996e4f30887e
+[green]DONE[/green] agent=react difficulty=medium qid=5a879ab05542996e4f30887e correct=True attempts=1 tokens=1639 latency_ms=3593
+[cyan]RUN[/cyan] agent=react difficulty=medium case=17/40 qid=5a8ce5c7554299441c6b9f64
+[green]DONE[/green] agent=react difficulty=medium qid=5a8ce5c7554299441c6b9f64 correct=True attempts=1 tokens=1443 latency_ms=3081
+[cyan]RUN[/cyan] agent=react difficulty=medium case=18/40 qid=5a904e725542995651fb5118
+[green]DONE[/green] agent=react difficulty=medium qid=5a904e725542995651fb5118 correct=True attempts=1 tokens=2696 latency_ms=4946
+[cyan]RUN[/cyan] agent=react difficulty=medium case=19/40 qid=5ab292e4554299545a2cf993
+[green]DONE[/green] agent=react difficulty=medium qid=5ab292e4554299545a2cf993 correct=True attempts=1 tokens=2040 latency_ms=4036
+[cyan]RUN[/cyan] agent=react difficulty=medium case=20/40 qid=5ab345db55429969a97a8122
+[green]DONE[/green] agent=react difficulty=medium qid=5ab345db55429969a97a8122 correct=False attempts=1 tokens=1525 latency_ms=4152
+[cyan]RUN[/cyan] agent=react difficulty=medium case=21/40 qid=5ab3ed12554299753aec59f3
+[green]DONE[/green] agent=react difficulty=medium qid=5ab3ed12554299753aec59f3 correct=True attempts=1 tokens=1646 latency_ms=3768
+[cyan]RUN[/cyan] agent=react difficulty=medium case=22/40 qid=5ab5a2f85542997d4ad1f197
+[green]DONE[/green] agent=react difficulty=medium qid=5ab5a2f85542997d4ad1f197 correct=True attempts=1 tokens=1582 latency_ms=3199
+[cyan]RUN[/cyan] agent=react difficulty=medium case=23/40 qid=5ab9d58855429939ce03dc3a
+[green]DONE[/green] agent=react difficulty=medium qid=5ab9d58855429939ce03dc3a correct=True attempts=1 tokens=2220 latency_ms=3993
+[cyan]RUN[/cyan] agent=react difficulty=medium case=24/40 qid=5aba66c855429939ce03dcdb
+[green]DONE[/green] agent=react difficulty=medium qid=5aba66c855429939ce03dcdb correct=False attempts=1 tokens=1916 latency_ms=4009
+[cyan]RUN[/cyan] agent=react difficulty=medium case=25/40 qid=5abcfc3b554299114383a1ad
+[green]DONE[/green] agent=react difficulty=medium qid=5abcfc3b554299114383a1ad correct=False attempts=1 tokens=2697 latency_ms=6393
+[cyan]RUN[/cyan] agent=react difficulty=medium case=26/40 qid=5abd7ca05542993062266cab
+[green]DONE[/green] agent=react difficulty=medium qid=5abd7ca05542993062266cab correct=False attempts=1 tokens=1998 latency_ms=4404
+[cyan]RUN[/cyan] agent=react difficulty=medium case=27/40 qid=5abd90545542996e802b47d7
+[green]DONE[/green] agent=react difficulty=medium qid=5abd90545542996e802b47d7 correct=False attempts=1 tokens=1874 latency_ms=3935
+[cyan]RUN[/cyan] agent=react difficulty=medium case=28/40 qid=5abee5e25542994516f45473
+[green]DONE[/green] agent=react difficulty=medium qid=5abee5e25542994516f45473 correct=False attempts=1 tokens=1702 latency_ms=3248
+[cyan]RUN[/cyan] agent=react difficulty=medium case=29/40 qid=5abf037a5542993fe9a41dbe
+[green]DONE[/green] agent=react difficulty=medium qid=5abf037a5542993fe9a41dbe correct=True attempts=1 tokens=1500 latency_ms=3700
+[cyan]RUN[/cyan] agent=react difficulty=medium case=30/40 qid=5ac061ab554299294b218fac
+[green]DONE[/green] agent=react difficulty=medium qid=5ac061ab554299294b218fac correct=False attempts=1 tokens=2215 latency_ms=4784
+[cyan]RUN[/cyan] agent=react difficulty=medium case=31/40 qid=5ac1b48f55429963665198f3
+[green]DONE[/green] agent=react difficulty=medium qid=5ac1b48f55429963665198f3 correct=True attempts=1 tokens=2452 latency_ms=4195
+[cyan]RUN[/cyan] agent=react difficulty=medium case=32/40 qid=5ac2a912554299218029dae8
+[green]DONE[/green] agent=react difficulty=medium qid=5ac2a912554299218029dae8 correct=True attempts=1 tokens=1970 latency_ms=4591
+[cyan]RUN[/cyan] agent=react difficulty=medium case=33/40 qid=5ac2c3545542990b17b1548b
+[green]DONE[/green] agent=react difficulty=medium qid=5ac2c3545542990b17b1548b correct=False attempts=1 tokens=2310 latency_ms=5765
+[cyan]RUN[/cyan] agent=react difficulty=medium case=34/40 qid=5ac3ad225542995ef918c1da
+[green]DONE[/green] agent=react difficulty=medium qid=5ac3ad225542995ef918c1da correct=False attempts=1 tokens=1471 latency_ms=4765
+[cyan]RUN[/cyan] agent=react difficulty=medium case=35/40 qid=5adbe1e755429947ff173853
+[green]DONE[/green] agent=react difficulty=medium qid=5adbe1e755429947ff173853 correct=False attempts=1 tokens=1549 latency_ms=3736
+[cyan]RUN[/cyan] agent=react difficulty=medium case=36/40 qid=5adc1309554299438c868d3b
+[green]DONE[/green] agent=react difficulty=medium qid=5adc1309554299438c868d3b correct=True attempts=1 tokens=2248 latency_ms=3744
+[cyan]RUN[/cyan] agent=react difficulty=medium case=37/40 qid=5ae0d91e55429924de1b7198
+[green]DONE[/green] agent=react difficulty=medium qid=5ae0d91e55429924de1b7198 correct=True attempts=1 tokens=2052 latency_ms=5135
+[cyan]RUN[/cyan] agent=react difficulty=medium case=38/40 qid=5ae3345f55429928c4239682
+[green]DONE[/green] agent=react difficulty=medium qid=5ae3345f55429928c4239682 correct=True attempts=1 tokens=1689 latency_ms=3998
+[cyan]RUN[/cyan] agent=react difficulty=medium case=39/40 qid=5ae3918b5542994393b9e709
+[green]DONE[/green] agent=react difficulty=medium qid=5ae3918b5542994393b9e709 correct=True attempts=1 tokens=1930 latency_ms=5168
+[cyan]RUN[/cyan] agent=react difficulty=medium case=40/40 qid=5ae732685542991e8301cbc3
+[green]DONE[/green] agent=react difficulty=medium qid=5ae732685542991e8301cbc3 correct=True attempts=1 tokens=1830 latency_ms=3988
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=1/40 qid=5a7272eb5542997f827839d7
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7272eb5542997f827839d7 correct=True attempts=2 tokens=4738 latency_ms=10935
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=2/40 qid=5a72b1c25542992359bc3172
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a72b1c25542992359bc3172 correct=True attempts=1 tokens=2765 latency_ms=4484
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=3/40 qid=5a74bdbf5542996c70cfadc7
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a74bdbf5542996c70cfadc7 correct=True attempts=1 tokens=1699 latency_ms=3366
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=4/40 qid=5a74f2ff5542993748c89748
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a74f2ff5542993748c89748 correct=True attempts=1 tokens=1959 latency_ms=3618
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=5/40 qid=5a760a5f554299109176e629
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a760a5f554299109176e629 correct=True attempts=1 tokens=2206 latency_ms=3810
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=6/40 qid=5a7722d655429966f1a36c99
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7722d655429966f1a36c99 correct=False attempts=3 tokens=6831 latency_ms=19176
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=7/40 qid=5a7a06935542990198eaf050
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7a06935542990198eaf050 correct=True attempts=1 tokens=1726 latency_ms=3334
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=8/40 qid=5a7d0db955429909bec76924
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7d0db955429909bec76924 correct=True attempts=1 tokens=2148 latency_ms=3724
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=9/40 qid=5a7d90195542991319bc93cf
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7d90195542991319bc93cf correct=True attempts=1 tokens=1353 latency_ms=3243
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=10/40 qid=5a7e36045542991319bc9440
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a7e36045542991319bc9440 correct=True attempts=1 tokens=2704 latency_ms=5941
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=11/40 qid=5a8195f35542995ce29dcc0c
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a8195f35542995ce29dcc0c correct=True attempts=2 tokens=4855 latency_ms=15240
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=12/40 qid=5a81ff1d554299676cceb1c3
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a81ff1d554299676cceb1c3 correct=True attempts=1 tokens=1982 latency_ms=3549
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=13/40 qid=5a82171f5542990a1d231f4a
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a82171f5542990a1d231f4a correct=True attempts=1 tokens=1323 latency_ms=3195
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=14/40 qid=5a84dd955542997b5ce3ff79
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a84dd955542997b5ce3ff79 correct=True attempts=2 tokens=3811 latency_ms=9177
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=15/40 qid=5a8514545542992a431d1ad2
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a8514545542992a431d1ad2 correct=False attempts=3 tokens=5667 latency_ms=17307
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=16/40 qid=5a879ab05542996e4f30887e
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a879ab05542996e4f30887e correct=True attempts=1 tokens=1640 latency_ms=3263
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=17/40 qid=5a8ce5c7554299441c6b9f64
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a8ce5c7554299441c6b9f64 correct=True attempts=1 tokens=1444 latency_ms=3036
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=18/40 qid=5a904e725542995651fb5118
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5a904e725542995651fb5118 correct=True attempts=1 tokens=2697 latency_ms=4976
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=19/40 qid=5ab292e4554299545a2cf993
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ab292e4554299545a2cf993 correct=True attempts=1 tokens=2041 latency_ms=3906
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=20/40 qid=5ab345db55429969a97a8122
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ab345db55429969a97a8122 correct=False attempts=3 tokens=5239 latency_ms=17011
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=21/40 qid=5ab3ed12554299753aec59f3
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ab3ed12554299753aec59f3 correct=True attempts=1 tokens=1647 latency_ms=3601
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=22/40 qid=5ab5a2f85542997d4ad1f197
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ab5a2f85542997d4ad1f197 correct=True attempts=1 tokens=1583 latency_ms=3451
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=23/40 qid=5ab9d58855429939ce03dc3a
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ab9d58855429939ce03dc3a correct=True attempts=1 tokens=2221 latency_ms=3767
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=24/40 qid=5aba66c855429939ce03dcdb
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5aba66c855429939ce03dcdb correct=False attempts=3 tokens=6344 latency_ms=16830
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=25/40 qid=5abcfc3b554299114383a1ad
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5abcfc3b554299114383a1ad correct=False attempts=3 tokens=8856 latency_ms=25863
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=26/40 qid=5abd7ca05542993062266cab
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5abd7ca05542993062266cab correct=True attempts=2 tokens=4308 latency_ms=10559
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=27/40 qid=5abd90545542996e802b47d7
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5abd90545542996e802b47d7 correct=False attempts=3 tokens=6378 latency_ms=18420
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=28/40 qid=5abee5e25542994516f45473
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5abee5e25542994516f45473 correct=False attempts=3 tokens=5712 latency_ms=14389
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=29/40 qid=5abf037a5542993fe9a41dbe
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5abf037a5542993fe9a41dbe correct=True attempts=1 tokens=1501 latency_ms=3641
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=30/40 qid=5ac061ab554299294b218fac
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ac061ab554299294b218fac correct=True attempts=2 tokens=4795 latency_ms=13071
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=31/40 qid=5ac1b48f55429963665198f3
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ac1b48f55429963665198f3 correct=True attempts=1 tokens=2453 latency_ms=4224
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=32/40 qid=5ac2a912554299218029dae8
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ac2a912554299218029dae8 correct=True attempts=1 tokens=1971 latency_ms=4417
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=33/40 qid=5ac2c3545542990b17b1548b
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ac2c3545542990b17b1548b correct=True attempts=1 tokens=2292 latency_ms=5304
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=34/40 qid=5ac3ad225542995ef918c1da
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ac3ad225542995ef918c1da correct=True attempts=3 tokens=5083 latency_ms=19687
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=35/40 qid=5adbe1e755429947ff173853
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5adbe1e755429947ff173853 correct=True attempts=3 tokens=5365 latency_ms=16153
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=36/40 qid=5adc1309554299438c868d3b
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5adc1309554299438c868d3b correct=True attempts=1 tokens=2249 latency_ms=4117
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=37/40 qid=5ae0d91e55429924de1b7198
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ae0d91e55429924de1b7198 correct=True attempts=3 tokens=6708 latency_ms=17770
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=38/40 qid=5ae3345f55429928c4239682
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ae3345f55429928c4239682 correct=True attempts=1 tokens=1690 latency_ms=3852
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=39/40 qid=5ae3918b5542994393b9e709
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ae3918b5542994393b9e709 correct=True attempts=1 tokens=1944 latency_ms=5649
+[cyan]RUN[/cyan] agent=reflexion difficulty=medium case=40/40 qid=5ae732685542991e8301cbc3
+[green]DONE[/green] agent=reflexion difficulty=medium qid=5ae732685542991e8301cbc3 correct=True attempts=1 tokens=1831 latency_ms=3977
+[green]Saved[/green] outputs/ollama_colab_100/medium/report.json
+[green]Saved[/green] outputs/ollama_colab_100/medium/report.md
+{
+  "react": {
+    "count": 40,
+    "em": 0.625,
+    "avg_attempts": 1,
+    "avg_token_estimate": 1948.3,
+    "avg_latency_ms": 4470.88
+  },
+  "reflexion": {
+    "count": 40,
+    "em": 0.825,
+    "avg_attempts": 1.625,
+    "avg_token_estimate": 3343.97,
+    "avg_latency_ms": 8525.83
+  },
+  "delta_reflexion_minus_react": {
+    "em_abs": 0.2,
+    "attempts_abs": 0.625,
+    "tokens_abs": 1395.67,
+    "latency_abs": 4054.95
+  }
+}
+[bold]Start split[/bold] difficulty=hard size=30
+[cyan]RUN[/cyan] agent=react difficulty=hard case=1/30 qid=5a736bfa5542991f29ee2e03
+[green]DONE[/green] agent=react difficulty=hard qid=5a736bfa5542991f29ee2e03 correct=True attempts=1 tokens=1757 latency_ms=4847
+[cyan]RUN[/cyan] agent=react difficulty=hard case=2/30 qid=5a7a02235542996c55b2dcd3
+[green]DONE[/green] agent=react difficulty=hard qid=5a7a02235542996c55b2dcd3 correct=True attempts=1 tokens=1380 latency_ms=4779
+[cyan]RUN[/cyan] agent=react difficulty=hard case=3/30 qid=5a7a0a965542996c55b2dce7
+[green]DONE[/green] agent=react difficulty=hard qid=5a7a0a965542996c55b2dce7 correct=True attempts=1 tokens=2121 latency_ms=3991
+[cyan]RUN[/cyan] agent=react difficulty=hard case=4/30 qid=5a7a52745542996c55b2dd4f
+[green]DONE[/green] agent=react difficulty=hard qid=5a7a52745542996c55b2dd4f correct=False attempts=1 tokens=1714 latency_ms=5259
+[cyan]RUN[/cyan] agent=react difficulty=hard case=5/30 qid=5a7daae35542990b8f503a1d
+[green]DONE[/green] agent=react difficulty=hard qid=5a7daae35542990b8f503a1d correct=True attempts=1 tokens=1408 latency_ms=4883
+[cyan]RUN[/cyan] agent=react difficulty=hard case=6/30 qid=5a7e567b55429949594199a0
+[green]DONE[/green] agent=react difficulty=hard qid=5a7e567b55429949594199a0 correct=True attempts=1 tokens=1798 latency_ms=3413
+[cyan]RUN[/cyan] agent=react difficulty=hard case=7/30 qid=5a832d225542990548d0b1bc
+[green]DONE[/green] agent=react difficulty=hard qid=5a832d225542990548d0b1bc correct=True attempts=1 tokens=2045 latency_ms=5368
+[cyan]RUN[/cyan] agent=react difficulty=hard case=8/30 qid=5a89372855429951533612e6
+[green]DONE[/green] agent=react difficulty=hard qid=5a89372855429951533612e6 correct=False attempts=1 tokens=1712 latency_ms=3838
+[cyan]RUN[/cyan] agent=react difficulty=hard case=9/30 qid=5a8d7341554299441c6b9fe5
+[green]DONE[/green] agent=react difficulty=hard qid=5a8d7341554299441c6b9fe5 correct=False attempts=1 tokens=2645 latency_ms=4368
+[cyan]RUN[/cyan] agent=react difficulty=hard case=10/30 qid=5a8efd3c55429918e830d179
+[green]DONE[/green] agent=react difficulty=hard qid=5a8efd3c55429918e830d179 correct=False attempts=1 tokens=1534 latency_ms=4547
+[cyan]RUN[/cyan] agent=react difficulty=hard case=11/30 qid=5ab381b155429969a97a816b
+[green]DONE[/green] agent=react difficulty=hard qid=5ab381b155429969a97a816b correct=True attempts=1 tokens=1907 latency_ms=4463
+[cyan]RUN[/cyan] agent=react difficulty=hard case=12/30 qid=5ab5141a5542991779162d70
+[green]DONE[/green] agent=react difficulty=hard qid=5ab5141a5542991779162d70 correct=False attempts=1 tokens=1774 latency_ms=3998
+[cyan]RUN[/cyan] agent=react difficulty=hard case=13/30 qid=5ab6e84a554299710c8d1fab
+[green]DONE[/green] agent=react difficulty=hard qid=5ab6e84a554299710c8d1fab correct=True attempts=1 tokens=1982 latency_ms=3599
+[cyan]RUN[/cyan] agent=react difficulty=hard case=14/30 qid=5ab93287554299753720f78f
+[green]DONE[/green] agent=react difficulty=hard qid=5ab93287554299753720f78f correct=False attempts=1 tokens=2078 latency_ms=4664
+[cyan]RUN[/cyan] agent=react difficulty=hard case=15/30 qid=5abbbd0f55429931dba144d5
+[green]DONE[/green] agent=react difficulty=hard qid=5abbbd0f55429931dba144d5 correct=False attempts=1 tokens=2282 latency_ms=6692
+[cyan]RUN[/cyan] agent=react difficulty=hard case=16/30 qid=5ac12fda5542994d76dccdb0
+[green]DONE[/green] agent=react difficulty=hard qid=5ac12fda5542994d76dccdb0 correct=True attempts=1 tokens=1822 latency_ms=4381
+[cyan]RUN[/cyan] agent=react difficulty=hard case=17/30 qid=5ac1b7495542994ab5c67dd9
+[green]DONE[/green] agent=react difficulty=hard qid=5ac1b7495542994ab5c67dd9 correct=True attempts=1 tokens=1911 latency_ms=3695
+[cyan]RUN[/cyan] agent=react difficulty=hard case=18/30 qid=5ac1f7f355429964131be2ae
+[green]DONE[/green] agent=react difficulty=hard qid=5ac1f7f355429964131be2ae correct=True attempts=1 tokens=1890 latency_ms=4323
+[cyan]RUN[/cyan] agent=react difficulty=hard case=19/30 qid=5ac3e8c65542997ea680c993
+[green]DONE[/green] agent=react difficulty=hard qid=5ac3e8c65542997ea680c993 correct=False attempts=1 tokens=2167 latency_ms=7071
+[cyan]RUN[/cyan] agent=react difficulty=hard case=20/30 qid=5adccafb5542992c1e3a2401
+[green]DONE[/green] agent=react difficulty=hard qid=5adccafb5542992c1e3a2401 correct=False attempts=1 tokens=1594 latency_ms=3721
+[cyan]RUN[/cyan] agent=react difficulty=hard case=21/30 qid=5addfe6c5542997dc790710e
+[green]DONE[/green] agent=react difficulty=hard qid=5addfe6c5542997dc790710e correct=False attempts=1 tokens=2435 latency_ms=5234
+[cyan]RUN[/cyan] agent=react difficulty=hard case=22/30 qid=5ade8f5e55429975fa854f11
+[green]DONE[/green] agent=react difficulty=hard qid=5ade8f5e55429975fa854f11 correct=True attempts=1 tokens=1837 latency_ms=3652
+[cyan]RUN[/cyan] agent=react difficulty=hard case=23/30 qid=5adf44985542993a75d2646d
+[green]DONE[/green] agent=react difficulty=hard qid=5adf44985542993a75d2646d correct=False attempts=1 tokens=1376 latency_ms=3945
+[cyan]RUN[/cyan] agent=react difficulty=hard case=24/30 qid=5ae27edc5542992decbdcd2d
+[green]DONE[/green] agent=react difficulty=hard qid=5ae27edc5542992decbdcd2d correct=False attempts=1 tokens=1549 latency_ms=3396
+[cyan]RUN[/cyan] agent=react difficulty=hard case=25/30 qid=5ae2e27155429928c423952a
+[green]DONE[/green] agent=react difficulty=hard qid=5ae2e27155429928c423952a correct=False attempts=1 tokens=1627 latency_ms=3680
+[cyan]RUN[/cyan] agent=react difficulty=hard case=26/30 qid=5ae3b4d05542992f92d82349
+[green]DONE[/green] agent=react difficulty=hard qid=5ae3b4d05542992f92d82349 correct=False attempts=1 tokens=2594 latency_ms=4812
+[cyan]RUN[/cyan] agent=react difficulty=hard case=27/30 qid=5ae3cf7e5542990afbd1e1e2
+[green]DONE[/green] agent=react difficulty=hard qid=5ae3cf7e5542990afbd1e1e2 correct=True attempts=1 tokens=1923 latency_ms=3744
+[cyan]RUN[/cyan] agent=react difficulty=hard case=28/30 qid=5ae3dde35542992f92d823a4
+[green]DONE[/green] agent=react difficulty=hard qid=5ae3dde35542992f92d823a4 correct=True attempts=1 tokens=1927 latency_ms=3555
+[cyan]RUN[/cyan] agent=react difficulty=hard case=29/30 qid=5ae655c855429908198fa599
+[green]DONE[/green] agent=react difficulty=hard qid=5ae655c855429908198fa599 correct=True attempts=1 tokens=1329 latency_ms=3088
+[cyan]RUN[/cyan] agent=react difficulty=hard case=30/30 qid=5ae78ec5554299540e5a5605
+[green]DONE[/green] agent=react difficulty=hard qid=5ae78ec5554299540e5a5605 correct=True attempts=1 tokens=2237 latency_ms=4599
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=1/30 qid=5a736bfa5542991f29ee2e03
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a736bfa5542991f29ee2e03 correct=True attempts=1 tokens=1758 latency_ms=4820
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=2/30 qid=5a7a02235542996c55b2dcd3
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a7a02235542996c55b2dcd3 correct=True attempts=1 tokens=1301 latency_ms=2947
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=3/30 qid=5a7a0a965542996c55b2dce7
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a7a0a965542996c55b2dce7 correct=True attempts=1 tokens=2122 latency_ms=3864
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=4/30 qid=5a7a52745542996c55b2dd4f
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a7a52745542996c55b2dd4f correct=True attempts=2 tokens=3849 latency_ms=14220
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=5/30 qid=5a7daae35542990b8f503a1d
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a7daae35542990b8f503a1d correct=True attempts=2 tokens=3191 latency_ms=13072
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=6/30 qid=5a7e567b55429949594199a0
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a7e567b55429949594199a0 correct=True attempts=1 tokens=1799 latency_ms=3377
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=7/30 qid=5a832d225542990548d0b1bc
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a832d225542990548d0b1bc correct=True attempts=1 tokens=2046 latency_ms=5330
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=8/30 qid=5a89372855429951533612e6
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a89372855429951533612e6 correct=True attempts=3 tokens=5826 latency_ms=16639
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=9/30 qid=5a8d7341554299441c6b9fe5
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a8d7341554299441c6b9fe5 correct=False attempts=3 tokens=8575 latency_ms=17853
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=10/30 qid=5a8efd3c55429918e830d179
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5a8efd3c55429918e830d179 correct=True attempts=1 tokens=1465 latency_ms=2973
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=11/30 qid=5ab381b155429969a97a816b
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ab381b155429969a97a816b correct=True attempts=1 tokens=1908 latency_ms=4354
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=12/30 qid=5ab5141a5542991779162d70
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ab5141a5542991779162d70 correct=False attempts=3 tokens=5978 latency_ms=17148
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=13/30 qid=5ab6e84a554299710c8d1fab
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ab6e84a554299710c8d1fab correct=False attempts=3 tokens=6716 latency_ms=17899
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=14/30 qid=5ab93287554299753720f78f
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ab93287554299753720f78f correct=False attempts=3 tokens=7040 latency_ms=20960
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=15/30 qid=5abbbd0f55429931dba144d5
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5abbbd0f55429931dba144d5 correct=True attempts=2 tokens=4780 latency_ms=14072
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=16/30 qid=5ac12fda5542994d76dccdb0
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ac12fda5542994d76dccdb0 correct=True attempts=1 tokens=1823 latency_ms=4396
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=17/30 qid=5ac1b7495542994ab5c67dd9
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ac1b7495542994ab5c67dd9 correct=False attempts=3 tokens=6371 latency_ms=15895
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=18/30 qid=5ac1f7f355429964131be2ae
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ac1f7f355429964131be2ae correct=True attempts=1 tokens=1920 latency_ms=5126
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=19/30 qid=5ac3e8c65542997ea680c993
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ac3e8c65542997ea680c993 correct=False attempts=3 tokens=7171 latency_ms=25226
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=20/30 qid=5adccafb5542992c1e3a2401
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5adccafb5542992c1e3a2401 correct=False attempts=3 tokens=5507 latency_ms=17249
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=21/30 qid=5addfe6c5542997dc790710e
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5addfe6c5542997dc790710e correct=True attempts=3 tokens=7857 latency_ms=18713
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=22/30 qid=5ade8f5e55429975fa854f11
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ade8f5e55429975fa854f11 correct=True attempts=1 tokens=1838 latency_ms=3833
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=23/30 qid=5adf44985542993a75d2646d
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5adf44985542993a75d2646d correct=False attempts=3 tokens=4825 latency_ms=16556
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=24/30 qid=5ae27edc5542992decbdcd2d
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae27edc5542992decbdcd2d correct=False attempts=3 tokens=5363 latency_ms=16329
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=25/30 qid=5ae2e27155429928c423952a
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae2e27155429928c423952a correct=False attempts=3 tokens=5744 latency_ms=19523
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=26/30 qid=5ae3b4d05542992f92d82349
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae3b4d05542992f92d82349 correct=True attempts=3 tokens=8435 latency_ms=18155
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=27/30 qid=5ae3cf7e5542990afbd1e1e2
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae3cf7e5542990afbd1e1e2 correct=True attempts=1 tokens=1924 latency_ms=3764
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=28/30 qid=5ae3dde35542992f92d823a4
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae3dde35542992f92d823a4 correct=True attempts=1 tokens=1928 latency_ms=3652
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=29/30 qid=5ae655c855429908198fa599
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae655c855429908198fa599 correct=True attempts=1 tokens=1330 latency_ms=3091
+[cyan]RUN[/cyan] agent=reflexion difficulty=hard case=30/30 qid=5ae78ec5554299540e5a5605
+[green]DONE[/green] agent=reflexion difficulty=hard qid=5ae78ec5554299540e5a5605 correct=True attempts=1 tokens=2228 latency_ms=4202
+[green]Saved[/green] outputs/ollama_colab_100/hard/report.json
+[green]Saved[/green] outputs/ollama_colab_100/hard/report.md
+{
+  "react": {
+    "count": 30,
+    "em": 0.5333,
+    "avg_attempts": 1,
+    "avg_token_estimate": 1878.5,
+    "avg_latency_ms": 4386.83
+  },
+  "reflexion": {
+    "count": 30,
+    "em": 0.6667,
+    "avg_attempts": 1.9667,
+    "avg_token_estimate": 4087.27,
+    "avg_latency_ms": 11174.6
+  },
+  "delta_reflexion_minus_react": {
+    "em_abs": 0.1334,
+    "attempts_abs": 0.9667,
+    "tokens_abs": 2208.77,
+    "latency_abs": 6787.77
+  }
+}
+[bold]Completed all difficulty splits[/bold]

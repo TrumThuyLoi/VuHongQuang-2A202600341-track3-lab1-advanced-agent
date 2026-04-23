@@ -1,0 +1,652 @@
+{
+  "meta": {
+    "dataset": "hard",
+    "mode": "ollama_remote",
+    "num_records": 60,
+    "agents": [
+      "react",
+      "reflexion"
+    ]
+  },
+  "summary": {
+    "react": {
+      "count": 30,
+      "em": 0.5333,
+      "avg_attempts": 1,
+      "avg_token_estimate": 1878.5,
+      "avg_latency_ms": 4386.83
+    },
+    "reflexion": {
+      "count": 30,
+      "em": 0.6667,
+      "avg_attempts": 1.9667,
+      "avg_token_estimate": 4087.27,
+      "avg_latency_ms": 11174.6
+    },
+    "delta_reflexion_minus_react": {
+      "em_abs": 0.1334,
+      "attempts_abs": 0.9667,
+      "tokens_abs": 2208.77,
+      "latency_abs": 6787.77
+    }
+  },
+  "failure_modes": {
+    "react": {
+      "none": 16,
+      "wrong_final_answer": 14
+    },
+    "reflexion": {
+      "none": 20,
+      "wrong_final_answer": 10
+    }
+  },
+  "examples": [
+    {
+      "qid": "5a736bfa5542991f29ee2e03",
+      "agent_type": "react",
+      "gold_answer": "Glenn Hughes",
+      "predicted_answer": "Glenn Hughes is older than Ross Lynch, as Glenn Hughes was born on August 21, 1951, while Ross Lynch was born on December 29, 1995.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a02235542996c55b2dcd3",
+      "agent_type": "react",
+      "gold_answer": "Aleksander Ford",
+      "predicted_answer": "Aleksander Ford was born first. He was born on 24 November 1908, while Pablo Trapero was born on 4 October 1971.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a0a965542996c55b2dce7",
+      "agent_type": "react",
+      "gold_answer": "standard gauge track",
+      "predicted_answer": "standard gauge track",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a52745542996c55b2dd4f",
+      "agent_type": "react",
+      "gold_answer": "Sir Francis Nethersole",
+      "predicted_answer": "Elizabeth Stuart, born in 1596, was born first compared to Francis Nethersole, who was born in 1587.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7daae35542990b8f503a1d",
+      "agent_type": "react",
+      "gold_answer": "Saint Motel",
+      "predicted_answer": "Saint Motel has more members than Curve. Saint Motel consists of A/J Jackson, Aaron Sharp, Dak Lerdamornpong, and Greg Erwin, while Curve consisted of Toni Halliday and Dean Garcia.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7e567b55429949594199a0",
+      "agent_type": "react",
+      "gold_answer": "Craig Newmark",
+      "predicted_answer": "Craig Newmark",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a832d225542990548d0b1bc",
+      "agent_type": "react",
+      "gold_answer": "Cheltenham",
+      "predicted_answer": "The base of one of the three main British intelligence agencies is based in Cheltenham, at \"The Doughnut,\" which houses Government Communications Headquarters (GCHQ).",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a89372855429951533612e6",
+      "agent_type": "react",
+      "gold_answer": "6.213 km long",
+      "predicted_answer": "6.213 km",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a8d7341554299441c6b9fe5",
+      "agent_type": "react",
+      "gold_answer": "President Richard Nixon",
+      "predicted_answer": "Richard Nixon",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a8efd3c55429918e830d179",
+      "agent_type": "react",
+      "gold_answer": "no",
+      "predicted_answer": "No, The New Pornographers are a Canadian indie rock band, while Kings of Leon are an American rock band.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab381b155429969a97a816b",
+      "agent_type": "react",
+      "gold_answer": "US 60",
+      "predicted_answer": "U.S. Highway 60 gives access to Zilpo Road and is also known as Midland Trail.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab5141a5542991779162d70",
+      "agent_type": "react",
+      "gold_answer": "Academy of Motion Picture Arts and Sciences",
+      "predicted_answer": "Academy Award for Best Director",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab6e84a554299710c8d1fab",
+      "agent_type": "react",
+      "gold_answer": "Hawaii",
+      "predicted_answer": "Hawaii",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab93287554299753720f78f",
+      "agent_type": "react",
+      "gold_answer": "plant",
+      "predicted_answer": "perennial plants",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5abbbd0f55429931dba144d5",
+      "agent_type": "react",
+      "gold_answer": "dancer Gregory Hines",
+      "predicted_answer": "Maurice Hines and his brother were famous for their contributions to dance and theater. Maurice Hines, a choreographer, director, actor, singer, and dancer, was known for works such as \"Uptown... It's Hot!\" and \"Hot Feet,\" while his brother Gregory Hines was also a renowned dancer.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac12fda5542994d76dccdb0",
+      "agent_type": "react",
+      "gold_answer": "Pan American Games",
+      "predicted_answer": "Jo Ann Terry won the 80m hurdles event at the 1963 Pan American Games in S\u00e3o Paulo, Brazil.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac1b7495542994ab5c67dd9",
+      "agent_type": "react",
+      "gold_answer": "synth-pop",
+      "predicted_answer": "Synth-pop",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac1f7f355429964131be2ae",
+      "agent_type": "react",
+      "gold_answer": "ingredients in beer",
+      "predicted_answer": "The Hacker-Pschorr Brewery has to limit the ingredients in beer according to the Reinheitsgebot regulations.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac3e8c65542997ea680c993",
+      "agent_type": "react",
+      "gold_answer": "yes",
+      "predicted_answer": "No, the New Orleans Outfall Canals are not the same length as the Augusta Canal. The New Orleans Outfall Canals have a total of approximately 13 miles of levees and floodwalls, while the Augusta Canal is about 13 miles long in total.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5adccafb5542992c1e3a2401",
+      "agent_type": "react",
+      "gold_answer": "Isabelle Mergault",
+      "predicted_answer": "Guillaume Canet",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5addfe6c5542997dc790710e",
+      "agent_type": "react",
+      "gold_answer": "March 28, 1941",
+      "predicted_answer": "Alf Clausen, the creator of the current arrangement of \"The Simpsons Theme,\" was born in 1941.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ade8f5e55429975fa854f11",
+      "agent_type": "react",
+      "gold_answer": "10 Rillington Place",
+      "predicted_answer": "10 Rillington Place",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5adf44985542993a75d2646d",
+      "agent_type": "react",
+      "gold_answer": "Crambidae",
+      "predicted_answer": "Indogrammodes",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae27edc5542992decbdcd2d",
+      "agent_type": "react",
+      "gold_answer": "Roger Christian",
+      "predicted_answer": "Frank Oz",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae2e27155429928c423952a",
+      "agent_type": "react",
+      "gold_answer": "375 mi long",
+      "predicted_answer": "Kootenay River",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae3b4d05542992f92d82349",
+      "agent_type": "react",
+      "gold_answer": "Todd Phillips",
+      "predicted_answer": "Old School",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae3cf7e5542990afbd1e1e2",
+      "agent_type": "react",
+      "gold_answer": "Presque Isle",
+      "predicted_answer": "Presque Isle State Park",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae3dde35542992f92d823a4",
+      "agent_type": "react",
+      "gold_answer": "Select Security Stadium",
+      "predicted_answer": "Select Security Stadium",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae655c855429908198fa599",
+      "agent_type": "react",
+      "gold_answer": "Cognizant",
+      "predicted_answer": "Cognizant",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae78ec5554299540e5a5605",
+      "agent_type": "react",
+      "gold_answer": "Ulster County",
+      "predicted_answer": "New Paltz, Ulster County, New York",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a736bfa5542991f29ee2e03",
+      "agent_type": "reflexion",
+      "gold_answer": "Glenn Hughes",
+      "predicted_answer": "Glenn Hughes is older than Ross Lynch, as Glenn Hughes was born on August 21, 1951, while Ross Lynch was born on December 29, 1995.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a02235542996c55b2dcd3",
+      "agent_type": "reflexion",
+      "gold_answer": "Aleksander Ford",
+      "predicted_answer": "Aleksander Ford",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a0a965542996c55b2dce7",
+      "agent_type": "reflexion",
+      "gold_answer": "standard gauge track",
+      "predicted_answer": "standard gauge track",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a7a52745542996c55b2dd4f",
+      "agent_type": "reflexion",
+      "gold_answer": "Sir Francis Nethersole",
+      "predicted_answer": "Francis Nethersole was born first, as he is recorded to have been born in 1587, while Elizabeth Stuart, 2nd Countess of Moray, was born in 1596.",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1
+    },
+    {
+      "qid": "5a7daae35542990b8f503a1d",
+      "agent_type": "reflexion",
+      "gold_answer": "Saint Motel",
+      "predicted_answer": "Curve has fewer members than Saint Motel. Curve consisted of Toni Halliday and Dean Garcia, while Saint Motel consists of A/J Jackson (lead vocals, guitar, piano), Aaron Sharp (lead guitar), Dak Lerdamornpong (bass), and Greg Erwin (drums).",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1
+    },
+    {
+      "qid": "5a7e567b55429949594199a0",
+      "agent_type": "reflexion",
+      "gold_answer": "Craig Newmark",
+      "predicted_answer": "Craig Newmark",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a832d225542990548d0b1bc",
+      "agent_type": "reflexion",
+      "gold_answer": "Cheltenham",
+      "predicted_answer": "The base of one of the three main British intelligence agencies is based in Cheltenham, at \"The Doughnut,\" which houses Government Communications Headquarters (GCHQ).",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5a89372855429951533612e6",
+      "agent_type": "reflexion",
+      "gold_answer": "6.213 km long",
+      "predicted_answer": "The track length is 6.213 km.",
+      "is_correct": true,
+      "attempts": 3,
+      "failure_mode": "none",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5a8d7341554299441c6b9fe5",
+      "agent_type": "reflexion",
+      "gold_answer": "President Richard Nixon",
+      "predicted_answer": "Richard Nixon",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5a8efd3c55429918e830d179",
+      "agent_type": "reflexion",
+      "gold_answer": "no",
+      "predicted_answer": "No",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab381b155429969a97a816b",
+      "agent_type": "reflexion",
+      "gold_answer": "US 60",
+      "predicted_answer": "U.S. Highway 60 gives access to Zilpo Road and is also known as Midland Trail.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ab5141a5542991779162d70",
+      "agent_type": "reflexion",
+      "gold_answer": "Academy of Motion Picture Arts and Sciences",
+      "predicted_answer": "Academy Award for Best Director",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ab6e84a554299710c8d1fab",
+      "agent_type": "reflexion",
+      "gold_answer": "Hawaii",
+      "predicted_answer": "Aulani, a Disney Resort & Spa",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ab93287554299753720f78f",
+      "agent_type": "reflexion",
+      "gold_answer": "plant",
+      "predicted_answer": "None of the provided context mentions a specific vegetation type shared by Kniphofia and Baptisia. Based on their descriptions, both are flowering plants but do not share a common vegetation type as per the given information.",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5abbbd0f55429931dba144d5",
+      "agent_type": "reflexion",
+      "gold_answer": "dancer Gregory Hines",
+      "predicted_answer": "Maurice Hines and his brother Gregory Hines were famous for their dancing.",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1
+    },
+    {
+      "qid": "5ac12fda5542994d76dccdb0",
+      "agent_type": "reflexion",
+      "gold_answer": "Pan American Games",
+      "predicted_answer": "Jo Ann Terry won the 80m hurdles event at the 1963 Pan American Games in S\u00e3o Paulo, Brazil.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac1b7495542994ab5c67dd9",
+      "agent_type": "reflexion",
+      "gold_answer": "synth-pop",
+      "predicted_answer": "Electropop",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ac1f7f355429964131be2ae",
+      "agent_type": "reflexion",
+      "gold_answer": "ingredients in beer",
+      "predicted_answer": "The Hacker-Pschorr Brewery has to limit the ingredients in its beer to comply with German regulations, specifically adhering to the Reinheitsgebot purity law.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ac3e8c65542997ea680c993",
+      "agent_type": "reflexion",
+      "gold_answer": "yes",
+      "predicted_answer": "No, the New Orleans Outfall Canals are not the same length as the Augusta Canal. The New Orleans Outfall Canals consist of three canals totaling approximately 13 miles, while the Augusta Canal is approximately 13 miles long in total but passes through three levels.",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5adccafb5542992c1e3a2401",
+      "agent_type": "reflexion",
+      "gold_answer": "Isabelle Mergault",
+      "predicted_answer": "Guillaume Canet",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5addfe6c5542997dc790710e",
+      "agent_type": "reflexion",
+      "gold_answer": "March 28, 1941",
+      "predicted_answer": "1941-03-28",
+      "is_correct": true,
+      "attempts": 3,
+      "failure_mode": "none",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ade8f5e55429975fa854f11",
+      "agent_type": "reflexion",
+      "gold_answer": "10 Rillington Place",
+      "predicted_answer": "10 Rillington Place",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5adf44985542993a75d2646d",
+      "agent_type": "reflexion",
+      "gold_answer": "Crambidae",
+      "predicted_answer": "Indogrammodes",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ae27edc5542992decbdcd2d",
+      "agent_type": "reflexion",
+      "gold_answer": "Roger Christian",
+      "predicted_answer": "We Married Margo is a 2000 American independent comedy film directed by J. David Shapiro and co-written by Shapiro and William Dozier.",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ae2e27155429928c423952a",
+      "agent_type": "reflexion",
+      "gold_answer": "375 mi long",
+      "predicted_answer": "The length of the Kootenay River, which has Wild Horse Creek as a tributary, is approximately 421 km (262 mi).",
+      "is_correct": false,
+      "attempts": 3,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ae3b4d05542992f92d82349",
+      "agent_type": "reflexion",
+      "gold_answer": "Todd Phillips",
+      "predicted_answer": "Todd Phillips",
+      "is_correct": true,
+      "attempts": 3,
+      "failure_mode": "none",
+      "reflection_count": 2
+    },
+    {
+      "qid": "5ae3cf7e5542990afbd1e1e2",
+      "agent_type": "reflexion",
+      "gold_answer": "Presque Isle",
+      "predicted_answer": "Presque Isle State Park",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae3dde35542992f92d823a4",
+      "agent_type": "reflexion",
+      "gold_answer": "Select Security Stadium",
+      "predicted_answer": "Select Security Stadium",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae655c855429908198fa599",
+      "agent_type": "reflexion",
+      "gold_answer": "Cognizant",
+      "predicted_answer": "Cognizant",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "5ae78ec5554299540e5a5605",
+      "agent_type": "reflexion",
+      "gold_answer": "Ulster County",
+      "predicted_answer": "New Paltz, Ulster County",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    }
+  ],
+  "extensions": [
+    "structured_evaluator",
+    "reflection_memory",
+    "benchmark_report_json",
+    "mock_mode_for_autograding"
+  ],
+  "discussion": "Reflexion helps when the first attempt stops after the first hop or drifts to a wrong second-hop entity. The tradeoff is higher attempts, token cost, and latency. In a real report, students should explain when the reflection memory was useful, which failure modes remained, and whether evaluator quality limited gains."
+}
